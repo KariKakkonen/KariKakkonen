@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😎 I’m currently working on some cool stuff for ISTQB.  
+🤔 Ask me about software testing, agile, DevOps, or AI  
+😄 I'm the author of Dragons Out software testing book for children (and adults)  
+and co-author for ACT 2 LEAD software testing leadership handbook
