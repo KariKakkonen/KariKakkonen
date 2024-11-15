@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 🤔 Ask me about software testing, agile, DevOps, or AI.  
 😄 I'm the author of Dragons Out software testing book for children (and adults).  
 😄 I'm also the co-author for ACT 2 LEAD software testing leadership handbook.  
+😄 I work at Gofore as Expertise Capability Owner.  
 
